@@ -63,4 +63,16 @@
 
 **<a href="https://github.com/arielmoatti?tab=repositories&q=topic:claude-code-vscode">github.com/arielmoatti — תגית claude-code-vscode</a>**
 
+---
+
+## בונוס — זיכרון חי בין שיחות (לא ספציפי ל-VS Code)
+
+&rlm;**<a href="https://github.com/arielmoatti/claude-code-recall-reflect">claude-code-recall-reflect</a>**
+
+שתי פקודות סלאש, <code>/load</code> ו-<code>/burn</code>, שסוגרות את לולאת ההקשר של Claude. בתחילת שיחה <code>/load</code> שולפת את כל מה שהפרויקט כבר יודע (הערות, מזהים, החלטות עבר, כללים שסיכמת), ובסופה <code>/burn</code> סורקת את השיחה וכותבת בחזרה מה שלמדנו — במיוחד שגיאות והוראות חדשות שנתת. ככה השיחה הבאה כבר יודעת את כל ההקשר ולא צריך להתחיל מאפס.
+
+הריפו הזה עובד בכל התקנה של Claude Code, לא רק ב-VS Code.
+
+**למי זה מתאים:** כל מי שעובד עם Claude Code לאורך זמן על אותו פרויקט ומתעייף מלהסביר שוב ושוב את אותו ההקשר.
+
 </div>
