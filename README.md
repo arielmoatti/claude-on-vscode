@@ -1,20 +1,13 @@
 <div dir="rtl">
 
-# Claude Code על VS Code — חבילת תוספות
+# חבילת תוספות ל-Claude Code על VS Code
 
 שלוש תוספות קטנות שהופכות את החוויה של **Claude Code** ב-**VS Code** לנוחה, יפה וקריאה — וכן, גם בעברית.
 
-</div>
-
 <blockquote dir="rtl">
-
-**חדשים ל-Claude Code?**
-
-Claude Code הוא כלי AI של Anthropic לכתיבת קוד. יש לו תוסף ל-VS Code שמאפשר לדבר עם Claude ישירות בתוך עורך הקוד שלך — לבקש תוספות, לתקן באגים, לשאול שאלות. החבילה הזו לא מחליפה את Claude Code, אלא משדרגת אותו בכמה פינות שעושות הבדל גדול ביום-יום.
-
+<p><b>חדשים ל-Claude Code?</b></p>
+<p>Claude Code הוא כלי AI של Anthropic לכתיבת קוד. יש לו תוסף ל-VS Code שמאפשר לדבר עם Claude ישירות בתוך עורך הקוד שלך — לבקש תוספות, לתקן באגים, לשאול שאלות. החבילה הזו לא מחליפה את Claude Code, אלא משדרגת אותו בכמה פינות שעושות הבדל גדול ביום-יום.</p>
 </blockquote>
-
-<div dir="rtl">
 
 ---
 
@@ -36,8 +29,6 @@ Claude Code הוא כלי AI של Anthropic לכתיבת קוד. יש לו תו�
 
 אוסף שדרוגים קטנים לחלון של Claude Code:
 
-</div>
-
 <ul dir="rtl">
 <li><b>מסגרת להודעות שלך</b> — קל לסרוק את השיחה ולהבדיל בין מה שאתה כתבת לבין מה ש-Claude ענה</li>
 <li><b>כפתורי ניווט</b> ↑↓⤓ לקפיצה בין הודעות</li>
@@ -45,8 +36,6 @@ Claude Code הוא כלי AI של Anthropic לכתיבת קוד. יש לו תו�
 <li><b>תג חשבון ועלות סשן</b> — רואים אם החלון על מנוי או API, וכמה הסשן עולה</li>
 <li><b>העתקה כ-Markdown</b> מתוך תפריט קליק-ימני</li>
 </ul>
-
-<div dir="rtl">
 
 **למי זה מתאים:** כל מי שמשתמש ב-Claude Code ביום-יום ורוצה ממשק קצת יותר נוח.
 
@@ -74,6 +63,6 @@ Claude Code הוא כלי AI של Anthropic לכתיבת קוד. יש לו תו�
 
 הריפויים בחבילה הזו מסומנים בתגית <code>claude-code-vscode</code>. הקישור הבא יראה אותם (ועוד כאלה אם יתווספו בעתיד):
 
-**[github.com/arielmoatti — תגית claude-code-vscode](https://github.com/arielmoatti?tab=repositories&q=topic:claude-code-vscode)**
+**<a href="https://github.com/arielmoatti?tab=repositories&q=topic:claude-code-vscode">github.com/arielmoatti — תגית claude-code-vscode</a>**
 
 </div>
