@@ -6,7 +6,7 @@
 
 <blockquote dir="rtl">
 <p><b>חדשים ל-Claude Code?</b></p>
-<p>Claude Code הוא כלי AI של Anthropic לכתיבת קוד. יש לו תוסף ל-VS Code שמאפשר לדבר עם Claude ישירות בתוך עורך הקוד שלך — לבקש תוספות, לתקן באגים, לשאול שאלות. החבילה הזו לא מחליפה את Claude Code, אלא משדרגת אותו בכמה פינות שעושות הבדל גדול ביום-יום.</p>
+<p>מדובר בכלי AI של Anthropic לכתיבת קוד בשם Claude Code. יש לו תוסף ל-VS Code שמאפשר לדבר עם Claude ישירות בתוך עורך הקוד שלך — לבקש תוספות, לתקן באגים, לשאול שאלות. החבילה הזו לא מחליפה את Claude Code, אלא משדרגת אותו בכמה פינות שעושות הבדל גדול ביום-יום.</p>
 </blockquote>
 
 ---
@@ -15,7 +15,7 @@
 
 ### 1. עברית קריאה (RTL)
 
-**<a href="https://github.com/arielmoatti/claude-code-vsc-hebrew">claude-code-vsc-hebrew</a>**
+&rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-hebrew">claude-code-vsc-hebrew</a>**
 
 בלי התיקון הזה, עברית מוצגת **הפוך** ב-Claude Code — תכתוב "שלום" ותראה "םולש". הסקריפט מתקן את זה: מילים בכיוון הנכון, פסקאות מיושרות לימין, וטקסט מעורב עברית-אנגלית עובד בלי להישבר.
 
@@ -25,7 +25,7 @@
 
 ### 2. שיפורי ממשק
 
-**<a href="https://github.com/arielmoatti/claude-code-ui-extras">claude-code-ui-extras</a>**
+&rlm;**<a href="https://github.com/arielmoatti/claude-code-ui-extras">claude-code-ui-extras</a>**
 
 אוסף שדרוגים קטנים לחלון של Claude Code:
 
@@ -43,7 +43,7 @@
 
 ### 3. שורת סטטוס — מה נשאר במכסה?
 
-**<a href="https://github.com/arielmoatti/claude-code-vsc-statusline">claude-code-vsc-statusline</a>**
+&rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-statusline">claude-code-vsc-statusline</a>**
 
 תוסף קליל שמציג בשורת הסטטוס של VS Code את **אחוזי השימוש** במכסת ה-5 שעות וה-7 ימים, ואת **שעות השיא** של Claude. ככה אתה יודע בדיוק מתי לעצור לפני שתגיע למכסה — בלי להיכנס לאתר, בלי לנחש.
 
