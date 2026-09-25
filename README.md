@@ -2,7 +2,7 @@
 
 # חבילת תוספות ל-Claude Code על VS Code
 
-ארבעה כלים קטנים שהופכים את העבודה עם **Claude Code** לנוחה, יפה וקריאה — וכן, גם בעברית. שלושה מהם שדרוגים ל-**VS Code**, והרביעי עובד בכל התקנה.
+חמישה כלים קטנים שהופכים את העבודה עם **Claude Code** לנוחה, יפה וקריאה - וכן, גם בעברית. שלושה מהם שדרוגים ל-**VS Code**, והשניים האחרים עובדים גם בלעדיו.
 
 <blockquote dir="rtl">
 <p><b>חדשים ל-Claude Code?</b></p>
@@ -13,7 +13,19 @@
 
 ## מה יש בחבילה
 
-### 1. עברית קריאה (RTL)
+### 1. שומר החלון - פחות המתנה לאיפוס המכסה
+
+&rlm;**<a href="https://github.com/arielmoatti/claude-code-window-keeper">claude-code-window-keeper</a>**
+
+מכסת 5 השעות של Claude מתחילה לרוץ רק מהפנייה הראשונה אחרי שהחלון הקודם נגמר. לכן כשחוזרים לעבוד אחרי הפסקה ארוכה (בבוקר, או אחרי הפסקת צהריים), נפתח חלון חדש, ויש 5 שעות מלאות עד האיפוס. אם גמרת את המכסה אחרי שעתיים, אתה תקוע שלוש שעות.
+
+השומר לא נותן לחלון להיות סגור: משימה קטנה ברקע פותחת את החלון הבא ברגע שהקודם נסגר. כך כשחוזרים לעבוד, חלון כבר רץ והאיפוס קרוב. גמרת את המכסה אחרי שעתיים? מחכים בממוצע שעה, ולא שלוש.
+
+**למי זה מתאים:** מנויים של Claude על Windows, שגומרים את המכסה לפני האיפוס.
+
+---
+
+### 2. עברית קריאה (RTL)
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-hebrew">claude-code-vsc-hebrew</a>**
 
@@ -23,7 +35,7 @@
 
 ---
 
-### 2. שיפורי ממשק
+### 3. שיפורי ממשק
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-ui-extras">claude-code-ui-extras</a>**
 
@@ -41,7 +53,7 @@
 
 ---
 
-### 3. שורת סטטוס — מה נשאר במכסה?
+### 4. שורת סטטוס — מה נשאר במכסה?
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-statusline">claude-code-vsc-statusline</a>**
 
@@ -51,7 +63,7 @@
 
 ---
 
-### 4. זיכרון חי בין שיחות
+### 5. זיכרון חי בין שיחות
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-recall-reflect">claude-code-recall-reflect</a>**
 
@@ -69,7 +81,7 @@
 
 ## רוצים לראות את כל התוספות שלי בתחום הזה?
 
-שלושת הריפויים הראשונים בחבילה הזו מסומנים בתגית <code>claude-code-vscode</code>. הקישור הבא יראה אותם (ועוד כאלה אם יתווספו בעתיד):
+שלושת השדרוגים ל-VS Code בחבילה הזו (2 עד 4) מסומנים בתגית <code>claude-code-vscode</code>. הקישור הבא יראה אותם (ועוד כאלה אם יתווספו בעתיד):
 
 **<a href="https://github.com/arielmoatti?tab=repositories&q=topic:claude-code-vscode">github.com/arielmoatti — תגית claude-code-vscode</a>**
 
