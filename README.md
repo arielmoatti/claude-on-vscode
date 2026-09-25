@@ -2,7 +2,7 @@
 
 # חבילת תוספות ל-Claude Code על VS Code
 
-חמישה כלים קטנים שהופכים את העבודה עם **Claude Code** לנוחה, יפה וקריאה - וכן, גם בעברית. שלושה מהם שדרוגים ל-**VS Code**, והשניים האחרים עובדים גם בלעדיו.
+שישה כלים קטנים שהופכים את העבודה עם **Claude Code** לנוחה, יפה וקריאה - וכן, גם בעברית. ארבעה מהם שדרוגים ל-**VS Code**, והשניים האחרים עובדים גם בלעדיו.
 
 <blockquote dir="rtl">
 <p><b>חדשים ל-Claude Code?</b></p>
@@ -13,7 +13,19 @@
 
 ## מה יש בחבילה
 
-### 1. שומר החלון - פחות המתנה לאיפוס המכסה
+### 1. מתג מנהל - הרשאות מנהל ל-Claude Code רק כשצריך
+
+&rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-admin-toggle">claude-code-vsc-admin-toggle</a>**
+
+כשקלוד צריך לגעת ב-Windows עצמו (להפעיל מחדש שירות, לשנות הגדרה ב-Defender, לבדוק את בריאות הדיסק), הוא נתקע על Access denied, כי הוא רץ עם ההרשאות של VS Code. ולהריץ את VS Code כמנהל תמיד עולה ביוקר: בקשת אישור בכל פתיחה, בלי עדכונים אוטומטיים, ובלי גרירת קבצים לצ'אט.
+
+המתג הוא כפתור בשורת הסטטוס שקובע אם הפתיחה הבאה של VS Code תהיה כמנהל. מדליקים כשמשימה צריכה את זה, ומכבים כשמסיימים.
+
+**למי זה מתאים:** משתמשי Claude Code ב-VS Code על Windows, שמבקשים ממנו גם לטפל במחשב עצמו.
+
+---
+
+### 2. שומר החלון - פחות המתנה לאיפוס המכסה
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-window-keeper">claude-code-window-keeper</a>**
 
@@ -25,7 +37,7 @@
 
 ---
 
-### 2. עברית קריאה (RTL)
+### 3. עברית קריאה (RTL)
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-hebrew">claude-code-vsc-hebrew</a>**
 
@@ -35,7 +47,7 @@
 
 ---
 
-### 3. שיפורי ממשק
+### 4. שיפורי ממשק
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-ui-extras">claude-code-ui-extras</a>**
 
@@ -53,7 +65,7 @@
 
 ---
 
-### 4. שורת סטטוס — מה נשאר במכסה?
+### 5. שורת סטטוס — מה נשאר במכסה?
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-vsc-statusline">claude-code-vsc-statusline</a>**
 
@@ -63,7 +75,7 @@
 
 ---
 
-### 5. זיכרון חי בין שיחות
+### 6. זיכרון חי בין שיחות
 
 &rlm;**<a href="https://github.com/arielmoatti/claude-code-recall-reflect">claude-code-recall-reflect</a>**
 
@@ -81,7 +93,7 @@
 
 ## רוצים לראות את כל התוספות שלי בתחום הזה?
 
-שלושת השדרוגים ל-VS Code בחבילה הזו (2 עד 4) מסומנים בתגית <code>claude-code-vscode</code>. הקישור הבא יראה אותם (ועוד כאלה אם יתווספו בעתיד):
+השדרוגים ל-VS Code בחבילה הזו מסומנים בתגית <code>claude-code-vscode</code>. הקישור הבא יראה אותם (ועוד כאלה אם יתווספו בעתיד):
 
 **<a href="https://github.com/arielmoatti?tab=repositories&q=topic:claude-code-vscode">github.com/arielmoatti — תגית claude-code-vscode</a>**
 
